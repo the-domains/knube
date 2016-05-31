@@ -1,0 +1,14 @@
+layout_spectrum: 0.5705301396083087
+typography_spectrum: 0.7108241622336209
+color:
+  brandStrength: 0.15915473294444382
+  lightness: 0.6550966803915799
+  saturation: 0.32246422581374645
+  rhythmicContrast: 0.20595340733416378
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: Knube
