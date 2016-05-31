@@ -1,14 +1,18 @@
-layout_spectrum: 0.5705301396083087
 typography_spectrum: 0.7108241622336209
+content_rating:
+  adult: true
 color:
   brandStrength: 0.15915473294444382
   lightness: 0.6550966803915799
   saturation: 0.32246422581374645
   rhythmicContrast: 0.20595340733416378
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+layout_spectrum: 0.5705301396083087
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/47ea2b35-d7e0-4704-89f5-4a35b3abe3ba.png'
 name: Knube
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c5f6aed-7ebc-4821-b82c-c533fbb56eea.png'
